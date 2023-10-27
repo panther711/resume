@@ -1,0 +1,61 @@
+Name : James Han
+
+----------------contact information--------------
+gmail:jameshan044@gmail.com
+telegram:
+skype:
+discord:
+
+
+----------------personal information------------------
+country: 
+nation:  Asian Canadian male
+birthday: 
+birthplace: Hong Kong
+father: David James Mitchell
+mother: Han Xia
+
+--------------- location info -----------------------
+country : canada
+city : Montréal, QC
+address : 1770 Rue Joseph-Manseau
+postal code : H3H 0A8
+
+----------------skills-------------------
+MERN		mongodb, express.js, react.js, node.js
+MEAN		mongodb, express.js, angular.js, node.js
+MEVN		mongodb, express.js, vue.js, node.js
+django	HTML, css, js/ts, python
+database	MySQL, Oracle, MongoDB, NoSQL
+Cloud		Firebase, Cloudflare, AWS
+Figma		
+Others	Python, C/C++, C#/.NET, WordPress, Laravel
+
+
+----------------Education-------------------
+
+- Hong Kong University of Science and Technology
+location: Clear Water Bay Peninsula, New Territories, Hong Kong
+major: Software Engineering
+degree: Bachelor of Compputer Engineering
+duration:  2011.9~2015.11
+
+- information of HKUST:
+	The academic calendar of the Hong Kong University of Science and Technology (HKUST) varies from year to year, but generally, the academic year begins in September and ends in June of the following year. The exact graduation date depends on the program and the specific year. Typically, undergraduate students graduate in May or June, while graduate students may graduate in different months depending on their program. It is recommended to check the HKUST academic calendar or contact the university registrar's office for more specific information.
+	The graduation dates for the Hong Kong University of Science and Technology (HKUST) vary depending on th e academic program and level. Generally, HKUST holds two graduation ceremonies each year, one in May and another in November. Due to the current COVID-19 pandemic, the graduation ceremony for 2020 was postponed and held virtually. The exact dates for the 2021 graduation ceremonies have not yet been announced. Please refer to the HKUST official website or contact the university directly for the latest updates.
+
+	The graduation date for Hong Kong University of Science and Technology (HKUST) in 2014 was June 12th
+
+- The full names of the Chancellor, President, and Dean of HKUST in 2014 are:
+
+	Chancellor: Andrew Li Kwok-nang
+	President: Tony F. Chan
+	Dean of Students: Wei Shyy
+
+-----------experiences-------------
+OpenXcell Inc: 2020.3~2023.7(Sunnyvale, CA, United States)
+Zealous System: 2018.1~2020.2 (Lewis Center, Ohio, United States) 
+Fareportal : 2015.11~2017.12 (New York, New York, United States)
+
+
+----------project

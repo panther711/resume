@@ -1,0 +1,22 @@
+summary
+Experienced Full Stack Dev with 7 yrs exp. Developed web apps using React, Angular, Node.js. Enhanced performance, reduced query time. Mentored team, improved productivity. Integrated front-end & back-end, reduced response times by 25% & increased satisfaction by 20%. Designed CRM systems, increased sales productivity by 30% & customer retention by 20%. Reduced software release times by 30% and production issues. Troubleshot web apps, decreased downtime and bugs. Skilled in leading teams, improving UX, driving revenue growth.
+
+career history
+Led full stack development for a customer-facing web application, resulting in 25% faster loading times and an improved user experience.
+Developed and maintained a web application using React and Node.js, supporting a 50% increase in user traffic and a 15% increase in revenue over a one-year period.
+Monitored and optimized web application performance, resulting in a 15% improvement in page load times and a 20% reduction in server response times.
+Wrote and optimized SQL queries for data retrieval and manipulation, reducing query execution time by 30% and improving overall application performance.
+Mentored and coached junior developers, resulting in a 10% improvement in team satisfaction scores and a 15% increase in overall team productivity.
+
+Developed and maintained a user-facing web application using Angular, resulting in a 20% increase in user engagement and a 10% increase in revenue within the first six months.
+Developed and implemented a new RESTful API using Node.js, resulting in a 25% reduction in response times and a 15% increase in user satisfaction.
+Implemented automated testing platforms and unit tests, reducing the number of bugs by 40% and improving overall code quality.
+Optimized web applications for performance using MongoDB, resulting in a 25% improvement in application speed and a 15% reduction in server costs.
+Wrote clean, testable code with unit tests, resulting in a 30% reduction in bug-related delays and a 25% increase in overall code quality.
+Collaborated with cross-functional teams to define and implement a technology roadmap, resulting in a 25% increase in team efficiency and project success rate.
+
+Integrated the front-end application with a back-end service using Node.js and MongoDB, resulting in a 25% reduction in response times and a 20% increase in user satisfaction.
+Designed and developed a custom CRM system using React.js and MongoDB, resulting in a 30% increase in sales team productivity and a 20% increase in customer retention.
+Collaborated with the DevOps team to implement continuous integration and continuous delivery ՄCI/CDՅ practices, reducing software release times by 30% and minimizing production issues by 30%.
+Collaborated with a cross-functional team to troubleshoot and debug a web application, resulting in a 50% reduction in application downtime and improved user satisfaction.
+Worked with the development team to troubleshoot and debug applications, resulting in a 30% reduction in production issues and improved overall code quality

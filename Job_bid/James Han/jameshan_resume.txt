@@ -1,0 +1,22 @@
+summary
+Full stack developer with over 7+ years of experience in Java/JS, Angular, Vue, React, Python, Node.js. In improving user engagement by 7.5%, reducing development and deployment time by 20% and mentoring junior developers, resulting in a 10% improvement in team satisfaction scores. I have also good experience of teamwork. 
+
+
+experience history
+
+Engineered a membership platform from scratch using MERN; increased retention rate by 5% and saved the company 10 hours of manual work per week
+Researched and created a new application to be used by the company, resulting in a 1.2x increase in sales 
+Generated $500K+in annual ad revenue as a system administrator of a large network of websites.
+Developed a node.js server to validate membership and track digital badges being used, saving the company $22.5K.
+Mentored 4 team members, enabling them to achieve professional growth and personal goals 
+Developed the process of testing and recording the results of the test, thereby increasing the number of tests completed per day by 10%
+
+Fostered a culture of collaboration within the team by implementing agile methodologies, leading to a 10% increase in project efficiency and a 5% reduction in time-to-market
+Designing a new web application to enhance collaboration between design, engineering and sales teams increased revenue by 10% in one quarter.
+Built a custom web application for a major client, successfully delivering an integrated CRM system in just 2 weeks 
+Developed a new technique for reducing the time it takes to fix crashes by 20%
+
+Designed and implemented a new cloud-based mobile POS platform, resulting in a 2.5% increase in customer retention
+Coordinated cross-functional teams of hardware and software developers to ensure seamless integration of the new POS system; achieved 10% reduction in transaction processing time
+Continued to develop specialty skills related to his expertise in mobile POS and payment technologies
+Developed and continuously improved an internal knowledge base of best practices for software development

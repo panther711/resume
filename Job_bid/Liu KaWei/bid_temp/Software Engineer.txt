@@ -1,0 +1,22 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Software Engineer position at your company. With 7 years of experience as a Senior Full Stack Developer, I have honed my skills in developing and maintaining web applications using React, Angular, and Node.js, and I am confident that my expertise will be valuable in driving innovation and growth within your organization.
+
+In my previous role at Zibtek, I led the full stack development for a customer-facing web application, resulting in a 25% improvement in loading times and an enhanced user experience. By leveraging my proficiency in React and Node.js, I successfully supported a 50% increase in user traffic and a 15% boost in revenue over a one-year period. Additionally, I consistently monitored and optimized web application performance, leading to a 15% improvement in page load times and a 20% reduction in server response times.
+
+At Konstant Infosolutions, I played a key role in developing a user-facing web application using Angular. This initiative resulted in a remarkable 20% increase in user engagement and a 10% rise in revenue within the first six months. By implementing a new RESTful API with Node.js, I achieved a 25% reduction in response times and improved user satisfaction. Furthermore, I introduced automated testing platforms and unit tests, resulting in a 40% decrease in bugs and an overall improvement in code quality.
+
+During my tenure at TapInfluence, I successfully integrated the front-end application with a back-end service, leading to a 25% reduction in response times and a 20% increase in user satisfaction. Moreover, I designed and developed a custom CRM system using React.js and MongoDB, which resulted in a 30% increase in sales team productivity and a 20% improvement in customer retention. I also collaborated with the DevOps team to implement continuous integration and delivery practices, reducing software release times by 30% and minimizing production issues.
+
+In addition to my technical expertise, I possess strong leadership and mentoring skills. I have successfully coached and mentored junior developers, resulting in improved team satisfaction scores and increased overall productivity. I am accustomed to collaborating with cross-functional teams, defining technology roadmaps, and driving team efficiency and project success rates.
+
+My skills include proficiency in frameworks/libraries such as React, Angular, Vue.js, Express, Django, and Flask. I am experienced in working with platforms such as Magento, WordPress, Shopify, and have knowledge of cloud platforms including Amazon, Microsoft Azure, and Google Cloud Platform. Additionally, I have utilized tools like Docker, CI/CD Pipelines, Jira, Git, and GitHub to streamline development processes and ensure code quality.
+
+I hold a Bachelor's degree in Computer Science from Hong Kong University of Science and Technology, further solidifying my foundation in software engineering.
+
+I am confident that my expertise, coupled with my dedication to innovation and teamwork, make me an ideal candidate for the Software Engineer position at your company. I am excited about the opportunity to contribute to your organization's success and would welcome the chance to discuss how my skills align with your needs in more detail.
+
+Thank you for considering my application. I look forward to the possibility of discussing this opportunity with you further.
+
+Sincerely,
+Liu KaWei

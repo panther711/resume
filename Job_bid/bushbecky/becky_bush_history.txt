@@ -1,0 +1,74 @@
+Name : Becky Bush
+Chinese name : Bai Kejie" (白克杰)  /white, capable hero
+
+----------------contact information--------------
+gmail:beckybush67@gmail.com
+telegram:
+skype:
+discord:
+
+
+----------------personal information------------------
+country: 
+nation:  Asian Canadian male
+birthday: 
+birthplace: Kneehill County, Alberta 
+father: William Bush
+mother: Mei Ling Wong
+
+--------------- location info -----------------------
+country : canada
+city : Montreal, QC
+address : 442 Rue De La Congregation
+postal code : H3K 2H7
+
+45.481126, -73.554892 
+
+Postal Code:		H4N 3C5
+City:				MONTREAL
+Area Name:			MONTREAL
+Province:			QC
+Area Code:			514
+Time Zone:			5
+Day Light Savings:	Y
+Latitude:			45.53272
+Longitude:			-73.656522
+Elevation			16 meters
+Population:			29,755
+Dwellings:			12,365
+
+----------------skills-------------------
+Web: MERN, MEAN, MEVN, Django stack
+Application: C++ Java Python MATLAB 
+Database: MySQL, Oracle, Mongo dB
+
+
+
+----------------Education-------------------
+
+- Hong Kong University of Science and Technology
+location: Clear Water Bay, Kowloon, Hong Kong.
+major: Software Engineering
+degree: Bachelor of Compputer Engineering
+duration:  2011.9~2015.11
+
+- information of HKUST:
+	The academic calendar of the Hong Kong University of Science and Technology (HKUST) varies from year to year, but generally, the academic year begins in September and ends in June of the following year. The exact graduation date depends on the program and the specific year. Typically, undergraduate students graduate in May or June, while graduate students may graduate in different months depending on their program. It is recommended to check the HKUST academic calendar or contact the university registrar's office for more specific information.
+	The graduation dates for the Hong Kong University of Science and Technology (HKUST) vary depending on th e academic program and level. Generally, HKUST holds two graduation ceremonies each year, one in May and another in November. Due to the current COVID-19 pandemic, the graduation ceremony for 2020 was postponed and held virtually. The exact dates for the 2021 graduation ceremonies have not yet been announced. Please refer to the HKUST official website or contact the university directly for the latest updates.
+
+	The graduation date for Hong Kong University of Science and Technology (HKUST) in 2014 was June 12th
+
+- The full names of the Chancellor, President, and Dean of HKUST in 2014 are:
+
+	Chancellor: Andrew Li Kwok-nang
+	President: Tony F. Chan
+	Dean of Students: Wei Shyy
+
+-----------experiences-------------
+Hubspot : 2020.12~2023.6
+BlueTech Software : 2019.6~2020.12
+Mezzanine : 2018.6~2019.6   
+Geeks 4 Nerds: 2015.11~2018.6		
+
+
+----------project

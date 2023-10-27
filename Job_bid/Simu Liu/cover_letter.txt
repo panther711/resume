@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Full Stack Developer position with your company. As a highly skilled and experienced Developer with over 7 years of experience, I am confident that I can contribute to the success of your team.
+
+In my previous role at Trigent, I led a team of 27 developers to build an e-commerce website in just 3 months using PHP, MySQL and JavaScript. I also developed a web application that allowed 75,000 users to search for nearby restaurants based on their location with 89% accuracy. I also participated in code reviews of 100 developers, ensuring that all code was 100% compliant with coding standards and best practices.
+
+Throughout my career I have developed a wide range of applications including diabetes tracking, event booking and ticketing, and budgeting. I specialise in React and React Native development and have experience with MERN, MEVN, LAMP, MEAN and Django stacks. I have also worked with popular databases such as MySQL, Oracle, MongoDB and NoSQL.
+
+In my previous roles, I have demonstrated my ability to work in a clear and organised manner, ensuring that projects are well planned before coding begins. I pride myself on my ability to see projects through from start to finish, while adding new features to existing products.
+
+I hold a Bachelor of Computer Science degree from the Hong Kong University of Science and Technology. I speak fluent English and Chinese.
+
+I would welcome the opportunity to bring my skills and experience to your company and contribute to your success. Thank you for considering my application.
+
+Yours sincerely,
+Simu Liu

@@ -1,0 +1,65 @@
+This is my resume
+"
+Ethan Chen
+Full Stack Developer
+applesdev002@gmaill.com Montreal, QC
+
+SUMMARY
+Experienced Full-Stack Developer with excellent proficiency in React and React Native. Portfolio includes successful applications such as diabetes tracking, event booking and ticketing, and budgeting. Meticulous planner and methodical executor, dedicated to high-quality and efficient deliverables. Skilled problem solver, adept at integrating new features and functionalities. Committed to seeing projects through from start to finish, always delivering excellence.
+
+EXPERIENCE
+SUMMARY
+Detail-oriented and self-driven Full Stack Engineer with a proven history in developing and building web-based solutions, maintaining and updating software products. Focus on Creating cutting-edge technologies, high quality, and efficiency leading teams of developers.
+
+Experience
+
+Full Stack Developer
+Swiftype, San Francisco
+3/2020-8/2023
+Built several web apps using combinations of React, React Native, Next.js, the MERN stack and various APIs.
+Developed and led the development of a fleet of new microservices to solve business problems around transactions, funding, fees, promotions, and many other domains.
+Developed a Secure Rest API using NestJS and deployed it on Google Cloud Platform.
+Implemented a new version of checkout to support recurring subscriptions using microservices built in Node.js and Typescript.
+Built a simple DApp using Web3.js on the Ethereum network. The DApp interacts with a smart contract and has a React frontend.
+Implemented an oAuth mechanism so that users can securely login using their preferred social network profile.
+
+
+
+Full Stack Developer
+Straight North, Baltimore MaryLand(MD)
+1/2018-2/2020
+Translated requirements and UX designs into functional front-end code, using React and MUI accurately
+Produced clean, well-documented, maintainable, testable and scalable codebase on Github's functionalities-PR, revert as well.
+Built a complete full-stack web application for a fintech startup using Next.js, Prisma ORM, a PostgreSQL database and Tailwind CSS.
+Built from scratch an admin platform for managing the platform's database entities and usage using React, Node.js and Mongoose.
+
+Web Developer
+Fareportal, New York
+11/2015-12/2017
+Built and deployed internal risk management tool as a rich single page application SPA using Angular.
+Developed 10 responsible modern websites for clients in a variety of industries, mostly in e-commerce
+Built middleware/AP Igateways that handled external APIs. 
+Designed and developed the company website using a bespoke CMS
+
+
+Skills
+HTML, CSS, JS/TS, React/Next, Angular, Vue/Nuxt, React Native, Tailwind CSS, Material UI, Redux, Chakra UI, Bootstrap, SQL/MySQL, Postgres, MongoDB, GraphQL, Nodejs, Express.js, NestJS, Web3.js, Solidity, Rest API, Django/Flask, 
+
+LANGUAGES
+English
+"
+write best and perfect friendly and informal bid sentence with emoticon, strong impression for 
+"
+
+"
+
+This bid sentence must follow the following rules:
+1. Must Use the first line to show that you’ve read their profile and understand what they need and say Hi there!. Make an Impact With First Sentence
+2. Must Introduce yourself and explain why you’re an expert in what they need, and why client choose me.
+3. Must Make a recommendation or ask a question to reinforce the fact that you’re an expert on this topic.
+4. Must Close with a Call to Action to get them to reply. Either ask for a website to learn more, or ask them when they’re available to talk.
+5. Must Emphasize I can complete the task perfectly within the deadline perfectly
+6. Must Sign off with your name : Simu Liu.
+7. Must Keep everything brief. Aim for less than 200 words in your job apply. 150-170 words is ideal.
+8. Must Use great spacing; you should only have two to three sentences MAXIMUM per paragraph in your proposal.
+9.Must use emoji icon

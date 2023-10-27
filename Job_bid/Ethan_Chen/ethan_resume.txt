@@ -1,0 +1,58 @@
+SUMMARY
+Detail-oriented and self-driven Full Stack Engineer with a proven history in developing and building web-based solutions, maintaining and updating software products. Focus on Creating cutting-edge technologies, high quality, and efficiency leading teams of developers.
+
+Experience
+
+Full Stack Developer
+Swiftype, San Francisco
+3/2020-8/2023
+Built several web apps using combinations of React, React Native, Next.js, the MERN stack and various APIs.
+Developed and led the development of a fleet of new microservices to solve business problems around transactions, funding, fees, promotions, and many other domains.
+Developed a Secure Rest API using NestJS and deployed it on Google Cloud Platform.
+Implemented a new version of checkout to support recurring subscriptions using microservices built in Node.js and Typescript.
+Built a simple DApp using Web3.js on the Ethereum network. The DApp interacts with a smart contract and has a React frontend.
+Implemented an oAuth mechanism so that users can securely login using their preferred social network profile.
+
+
+
+Full Stack Developer
+Straight North, Baltimore MaryLand(MD)
+1/2018-2/2020
+Translated requirements and UX designs into functional front-end code, using React and MUI accurately
+Produced clean, well-documented, maintainable, testable and scalable codebase on Github's functionalities-PR, revert as well.
+Built a complete full-stack web application for a fintech startup using Next.js, Prisma ORM, a PostgreSQL database and Tailwind CSS.
+Built from scratch an admin platform for managing the platform's database entities and usage using React, Node.js and Mongoose.
+
+Web Developer
+Fareportal, New York
+11/2015-12/2017
+Built and deployed internal risk management tool as a rich single page application SPA using Angular.
+Developed 10 responsible modern websites for clients in a variety of industries, mostly in e-commerce
+Built middleware/AP Igateways that handled external APIs. 
+Designed and developed the company website using a bespoke CMS
+
+
+Skills
+HTML
+CSS
+JS/TS
+React/Next
+Angular
+Vue/Nuxt
+React Native
+Tailwind CSS
+Material UI
+Redux
+Chakra UI
+Bootstrap
+SQL/MySQL
+Postgres
+MongoDB
+GraphQL
+Nodejs
+Express.js
+NestJS
+Web3.js
+Solidity
+Rest API
+Django/Flask

@@ -1,0 +1,62 @@
+This is my resume
+"
+Simu Liu
+Full Stack Developer
+simuliu711@gmaill.com Montreal, QC
+
+SUMMARY
+Experienced Full-Stack Developer with excellent proficiency in React and React Native. Portfolio includes successful applications such as diabetes tracking, event booking and ticketing, and budgeting. Meticulous planner and methodical executor, dedicated to high-quality and efficient deliverables. Skilled problem solver, adept at integrating new features and functionalities. Committed to seeing projects through from start to finish, always delivering excellence.
+
+EXPERIENCE
+Full Stack Developer
+Trigent
+03/2021 - 06/2023
+Remote
+Spearheaded the successful development and launch of a precision-focused web application, serving 75,000 users seeking nearby restaurant options based on their current location. Achieved exceptional user satisfaction and engagement.
+Collaborated closely with a team of 27 developers to deliver a multifaceted e-commerce website within a challenging time frame of 3 months. Utilized PHP, MySQL, and JavaScript to achieve optimal outcomes.
+Demonstrated technical expertise in designing visually stunning and dynamic email templates using cutting-edge HTML5 and CSS3 technologies.
+Contributed to an impressive 78% increase in click-through rates compared to previous years. Led thorough code inspections for a team of 100 developers, ensuring strict adherence to coding ethics and industry best practices. Elevated code quality and sustainability to new heights.
+
+Full Stack Developer
+Webcrafters
+02/2018 - 02/2021
+Warsaw, Poland
+Led the successful development and implementation of an advanced administration panel for a prominent purchasing agent enterprise, resulting in a remarkable 90% improvement in customer service proficiency and more than a 25% increase in operational efficiency.
+Achieved an impressive 85% customer satisfaction rate through the streamlined database implementation utilizing PDO and MySQL, ensuring seamless monitoring of operations from creation to truckload tracking.
+Directed and mentored a team of 15 skilled web developers in all aspects of construction, design, coding, testing, and maintenance of 25 e-commerce websites and web applications, delivering a highly successful outcome.
+
+Junior Web Developer
+TapInfluence
+11/2015 - 01/2018
+Mountain View, United States
+Collaborated with cross-functional teams to develop and implement a new and efficient landing page system, using PostgreSQL and s3 bucket to optimize image and link searches on the platform.
+Spearheaded the implementation of a search platform routing system that utilized react-router, enabling URL-driven searches and simplified navigation.
+Designed and developed a user-friendly interface for the data science team to test new features, eliminating the need for URL or Postman usage.
+Contributed to the transformation of the internal data science tool into a client-facing platform, utilizing React, React-Apollo, and GraphQL to create smaller, more focused influencer marketing campaigns.
+Acquired proficiency in React and Redux, playing a key role in introducing these technologies to the platform and successfully implementing a new search platform concept
+
+LANGUAGES
+English
+Advanced SKILLS
+React Angular Vue Django Agile AWS C/C++ CSS CRM Html Java NET mongodb MySQL Node.js Node.js NoSql Oracle Python CI/CD Git Version Control Docker Software Development
+
+EDUCATION
+Kowloon, Hong Kong
+Hong Kong University of Science and Technology
+
+"
+write best and perfect friendly and informal bid sentence with emoticon, strong impression for 
+"
+
+"
+
+This bid sentence must follow the following rules:
+1. Must Use the first line to show that you’ve read their profile and understand what they need and say Hi there!. Make an Impact With First Sentence
+2. Must Introduce yourself and explain why you’re an expert in what they need, and why client choose me.
+3. Must Make a recommendation or ask a question to reinforce the fact that you’re an expert on this topic.
+4. Must Close with a Call to Action to get them to reply. Either ask for a website to learn more, or ask them when they’re available to talk.
+5. Must Emphasize I can complete the task perfectly within the deadline perfectly
+6. Must Sign off with your name : Simu Liu.
+7. Must Keep everything brief. Aim for less than 200 words in your job apply. 150-170 words is ideal.
+8. Must Use great spacing; you should only have two to three sentences MAXIMUM per paragraph in your proposal.
+9.Must use emoji icon

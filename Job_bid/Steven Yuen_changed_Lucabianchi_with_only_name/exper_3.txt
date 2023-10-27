@@ -1,0 +1,68 @@
+Designed and implemented a new landing page system utilizing a PostgreSQL database and s3 bucket to facilitate efficient image and link searches on the platform.
+Collaborated with team members to develop a search platform routing system utilizing react-router, enabling URL driven searches and simplified navigation.
+Developed a user-friendly interface for the data science team to test new features, eliminating the need for URL or Postman usage.
+Extended the internal data science tool into a client-facing platform for creating smaller, focused influencer marketing campaigns utilizing React, React-Apollo, and GraphQL.
+Acquired proficiency in React and Redux to spearhead the new search platform concept, successfully introducing React to the platform.
+
+Spearheaded the design and implementation of a new landing page system, utilizing PostgreSQL and s3 bucket to streamline image and link searches on the platform.
+Collaborated with team members to develop a search platform routing system using react-router, enabling URL driven searches and simplified navigation.
+Created a user-friendly interface for the data science team to test new features, eliminating the need for URL or Postman usage.
+Transformed the internal data science tool into a client-facing platform for creating smaller, focused influencer marketing campaigns, utilizing React, React-Apollo, and GraphQL.
+Successfully introduced React and Redux to the platform, leading the implementation of a new search platform concept.
+
+Orchestrated the development and execution of a new landing page system, leveraging PostgreSQL and s3 bucket to optimize image and link searches on the platform.
+Collaborated with cross-functional team members to conceptualize and implement a search platform routing system using react-router, propelling URL driven searches and seamless navigation.
+Designed and implemented a user-centric interface for the data science team to test new features, eliminating the need for URL or Postman utilization.
+Revamped the internal data science tool into a client-facing platform for creating more targeted influencer marketing campaigns, utilizing React, React-Apollo, and GraphQL.
+Spearheaded the implementation of React and Redux to the platform, pioneering a new search platform concept and driving its success.
+
+Spearheaded the development and execution of a cutting-edge landing page system, utilizing PostgreSQL and s3 bucket to optimize image and link searches on the platform
+Collaborated with cross-functional team members to conceptualize and implement a search platform routing system using react-router, propelling URL driven searches and seamless navigation
+Designed and implemented a user-centric interface for the data science team to test new features, eliminating the need for URL or Postman utilization
+Transformed the internal data science tool into a client-facing platform for creating more targeted influencer marketing campaigns, utilizing React, React-Apollo, and GraphQL
+Pioneered a new search platform concept through the implementation of React and Redux, driving its success and revolutionizing the platform's performance
+
+Supervised the development and execution of a state-of-the-art landing page system that optimized image and link searches on the platform, leveraging PostgreSQL and s3 bucket.
+Collaborated effectively with cross-functional team members to conceptualize and implement a search platform routing system that leveraged react-router, promoting URL driven searches and seamless navigation.
+Designed and implemented a user-centric interface for the data science team to test new features, effectively eliminating the need for URL or Postman utilization.
+Transformed the internal data science tool into a client-facing platform for creating more targeted influencer marketing campaigns, employing React, React-Apollo, and GraphQL.
+Pioneered a new search platform concept through the implementation of React and Redux, driving its success and revolutionizing the platform's performance.
+
+Spearheaded the development and implementation of a cutting-edge landing page system, optimizing image and link searches on the platform by leveraging PostgreSQL and s3 bucket.
+Collaborated seamlessly with cross-functional team members to conceptualize and execute a search platform routing system, utilizing react-router to promote URL driven searches and streamline navigation.
+Devised and deployed a user-centric interface for the data science team, reducing the need for URL or Postman utilization and enabling efficient testing of new features.
+Elevated the internal data science tool into a client-facing platform, facilitating the creation of highly targeted influencer marketing campaigns by utilizing modern technologies such as React, React-Apollo, and GraphQL.
+Pioneered a game-changing search platform concept by implementing React and Redux, driving unparalleled performance and revolutionizing the platform's capabilities.
+
+
+Led the development and successful implementation of a state-of-the-art landing page system that leveraged PostgreSQL and s3 bucket, maximizing image and link searches on the platform.
+Demonstrated seamless collaboration with cross-functional team members to ideate and execute a cutting-edge search platform routing system, utilizing react-router to enhance URL driven searches and simplify navigation.
+Devised a user-centric interface that streamlined testing of new features for the data science team and reduced the need for URL or Postman utilization.
+Elevated the internal data science tool to a client-facing platform, utilizing modern technologies such as React, React-Apollo, and GraphQL, enabling the creation of highly targeted influencer marketing campaigns.
+Pioneered a game-changing search platform concept by implementing React and Redux, driving unparalleled performance and revolutionizing the platform's capabilities.
+
+
+Spearheaded the development and successful launch of a cutting-edge landing page system that leveraged PostgreSQL and s3 bucket to optimize image and link searches on the platform
+Collaborated seamlessly with cross-functional team members to ideate and execute a state-of-the-art search platform routing system, utilizing react-router to enhance URL driven searches and simplify navigation
+Designed and implemented a user-centric interface that streamlined testing of new features for the data science team, reducing the need for URL or Postman utilization
+Transformed the internal data science tool into a client-facing platform, utilizing modern technologies such as React, React-Apollo, and GraphQL, enabling the creation of highly targeted influencer marketing campaigns
+Pioneered a groundbreaking search platform concept by implementing React and Redux, driving unparalleled performance and revolutionizing the platform's capabilities
+
+Led the development and successful launch of a cutting-edge landing page system that optimized image and link searches on the platform through the utilization of PostgreSQL and s3 bucket
+Collaborated seamlessly with cross-functional team members to ideate and execute a state-of-the-art search platform routing system, using react-router to enhance URL driven searches and simplify navigation
+Designed and implemented a user-centric interface to streamline testing of new features for the data science team, reducing the need for URL or Postman utilization
+Transformed the internal data science tool into a client-facing platform, leveraging modern technologies such as React, React-Apollo, and GraphQL, to enable the creation of highly targeted influencer marketing campaigns
+Pioneered a groundbreaking search platform concept by implementing React and Redux, driving unparalleled performance and revolutionizing the platform's capabilities.
+
+Spearheaded the development and successful launch of a cutting-edge landing page system that optimized image and link searches on the platform through expert utilization of PostgreSQL and s3 bucket.
+Collaborated seamlessly with cross-functional team members to ideate and execute a state-of-the-art search platform routing system, leveraging react-router to enhance URL driven searches and simplify navigation.
+Designed and implemented a user-centric interface to streamline testing of new features for the data science team, drastically reducing the need for URL or Postman utilization.
+Transformed the internal data science tool into a client-facing platform, leveraging modern technologies such as React, React-Apollo, and GraphQL, to enable the creation of highly targeted influencer marketing campaigns.
+Pioneered a groundbreaking search platform concept by implementing React and Redux, driving unparalleled performance and revolutionizing the platform's capabilities.
+
+Developed and launched a cutting-edge landing page system that optimized image and link searches on the platform, utilizing PostgreSQL and s3 bucket to expertly achieve success.
+Collaborated effectively with cross-functional team members to ideate and execute a state-of-the-art search platform routing system, leveraging react-router to enhance URL driven searches and simplify navigation.
+Designed and implemented a user-centric interface, streamlining testing of new features for the data science team and significantly reducing the need for URL or Postman utilization.
+Transformed the internal data science tool into a client-facing platform, utilizing modern technologies such as React, React-Apollo, and GraphQL to enable the creation of highly targeted influencer marketing campaigns.
+Pioneered a groundbreaking search platform concept by implementing React and Redux, driving unparalleled performance and revolutionizing the platform's capabilities.
+

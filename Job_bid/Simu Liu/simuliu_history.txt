@@ -1,0 +1,79 @@
+Name : Simu Liu
+
+----------------contact information--------------
+gmail:simuliu711@gmail.com
+telegram:
+skype:
+discord:
+phone number : +1 508 257 1489
+
+
+----------------personal information------------------
+country: 
+nation:  Asian Canadian male
+birthday: July 11th, 1995
+birthplace: Hong Kong
+father: Liu Ka-Wai
+mother: Grace Wong
+
+--------------- location info -----------------------
+country : canada
+city : Montreal, QC
+address : 442 Rue De La Congregation
+postal code : H3K 2H7
+
+45.481126, -73.554892 
+
+Postal Code:		H4N 3C5
+City:				MONTREAL
+Area Name:			MONTREAL
+Province:			QC
+Area Code:			514
+Time Zone:			5
+Day Light Savings:	Y
+Latitude:			45.53272
+Longitude:			-73.656522
+Elevation			16 meters
+Population:			29,755
+Dwellings:			12,365
+
+----------------skills-------------------
+MERN		mongodb, express.js, react.js, node.js
+MEAN		mongodb, express.js, angular.js, node.js
+MEVN		mongodb, express.js, vue.js, node.js
+django		HTML, css, js/ts, python
+database	MySQL, Oracle, MongoDB, NoSQL
+Cloud		Firebase, Cloudflare, AWS
+Others		Python, C/C++, C#/.NET, WordPress, Laravel
+UX/UI, DevOps
+Wordpress, Laravel, Drupal
+
+
+
+----------------Education-------------------
+
+- Hong Kong University of Science and Technology
+location: Clear Water Bay, Hong Kong.
+major: Software Engineering
+degree: Bachelor of Computer Engineering
+duration:  2011.9~2015.11
+
+- information of HKUST:
+	The academic calendar of the Hong Kong University of Science and Technology (HKUST) varies from year to year, but generally, the academic year begins in September and ends in June of the following year. The exact graduation date depends on the program and the specific year. Typically, undergraduate students graduate in May or June, while graduate students may graduate in different months depending on their program. It is recommended to check the HKUST academic calendar or contact the university registrar's office for more specific information.
+	The graduation dates for the Hong Kong University of Science and Technology (HKUST) vary depending on th e academic program and level. Generally, HKUST holds two graduation ceremonies each year, one in May and another in November. Due to the current COVID-19 pandemic, the graduation ceremony for 2020 was postponed and held virtually. The exact dates for the 2021 graduation ceremonies have not yet been announced. Please refer to the HKUST official website or contact the university directly for the latest updates.
+
+	The graduation date for Hong Kong University of Science and Technology (HKUST) in 2014 was June 12th
+
+- The full names of the Chancellor, President, and Dean of HKUST in 2014 are:
+
+	Chancellor: Andrew Li Kwok-nang
+	President: Tony F. Chan
+	Dean of Students: Wei Shyy
+
+-----------experiences-------------
+Trigent: 2021.3~2023.6
+Webcrafters: 2018.2~2021.2    
+Tapinfluence: 2015.12~2018.1
+
+
+----------project
